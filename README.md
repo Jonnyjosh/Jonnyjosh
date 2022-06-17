@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonnyjosh
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on Data Science related Project.
 - 📫 How to reach me: joshmaninc@gmail.com
 
